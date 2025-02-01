@@ -1,0 +1,66 @@
+
+p{
+    font-size:2rem;
+    color: lightblue; 
+    margin-top : 10px;
+    text-align: center;
+}
+.counter{
+    background-color : white ;
+    width: 400px;
+    height: 400px;
+    justify-content: center;
+    margin: auto ;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border-radius : 20px;
+    box-shadow : 5px 7px 5px ;
+    transition : transform 0.5s ease;
+
+
+
+
+}
+.buttons{
+    display: flex;
+    
+}
+
+.button-style{
+    display: flex;
+    justify-content: center;
+    background-color: salmon;
+    margin : 10px;
+    padding : 10px;
+    border : none ;
+    color : white ;
+    width : 60px ;
+    height : 60px;
+    border-radius : 20px;
+    font-family : serif;
+    font-size : 30px;
+    box-shadow : 2px 2px 2px ;
+    cursor : pointer ; 
+    :hover {
+        opacity : 0;
+        transform : scale(1.1);
+
+    }
+}
+h1{
+    color : #A52A2A;
+    font-size: 3rem;
+    text-align: center;
+    position : center ; 
+    text-shadow : 2px 2px 2px ; 
+
+}
+
+body{
+    background-color : beige;
+    display : flex ; 
+    align-items : center ; 
+    justify-content : center ;
+    min-height : 700px;
+}
