@@ -7,7 +7,7 @@ This repository contains the materials and projects developed during the Web Dev
 ## Repository Structure
 
 - **Day 1:** Basics of HTML, CSS, and JavaScript 🏗️
-  - [README-day1.md](README-day1.md): A summary of Day 1 topics and the challenge.
+  - [README-day1.md](D:\web dev\GDG-Tech-Days-\day1\README-day1.md): A summary of Day 1 topics and the challenge.
 
 ## Learning Objectives
 
